@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Cliente
+comment0.text=\r\n\ En\ la\ clase\ Cliente,\ el\ m\u00E9todo\ \r\n\ \ \ agregaSaldo(p_importe)\ agrega\ p_importe\ al\ \r\n\ \ \ saldo\ actual\ (lo\ actualiza)\ y\ devuelve\ el\ nuevo\ \r\n\ \ \ saldo.\ El\ m\u00E9todo\ nuevoSaldo(p_importe)\r\n\ \ \ reemplaza\ el\ saldo\ actual\ por\ p_importe\ y\ \r\n\ \ \ devuelve\ el\ nuevo\ saldo.\ La\ salida\ impresa\ del\ \r\n\ \ \ m\u00E9todo\ mostrar()\ debe\ ser\ la\ siguiente\:\ (los\ \r\n\ \ \ valores\ en\ negrita\ dependen\ del\ estado\ interno\ \r\n\ \ \ del\ objeto)\r\n\ \r\n\ @author\ (Lezcano\ Emanuel\ Ezequiel)\ \r\n\ @version\ (1.0)\r\n
+comment1.params=p_nroDNI\ p_apellido\ p_nombre\ p_saldo
+comment1.target=Cliente(int,\ java.lang.String,\ java.lang.String,\ double)
+comment1.text=
+comment2.params=
+comment2.target=void\ mostrar()
+comment3.params=p_importe
+comment3.target=double\ agregaSaldo(double)
+comment4.params=p_importe
+comment4.target=double\ nuevoSaldo(double)
+comment5.params=
+comment5.target=java.lang.String\ apeYnom()
+comment6.params=
+comment6.target=java.lang.String\ nomYape()
+numComments=7

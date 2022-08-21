@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Laboratorio
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Laboratorio\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=p_nombre\ p_domicilio\ p_telefono\ p_compraMinima\ p_diaEntrega
+comment1.target=Laboratorio(java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ int)
+comment1.text=\r\n\ Constructor\ Laboratorio\r\n\ \ \ \ \ \ \ DOBLE\ ENCAPSULAMIENTO\r\n
+comment10.params=
+comment10.target=java.lang.String\ mostrarDatos()
+comment2.params=p_nombre\ p_domicilio\ p_telefono
+comment2.target=Laboratorio(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment3.params=p_nombre
+comment3.target=void\ setNombre(java.lang.String)
+comment4.params=p_domicilio
+comment4.target=void\ setDomicilio(java.lang.String)
+comment5.params=p_telefono
+comment5.target=void\ setTelefono(java.lang.String)
+comment6.params=p_compraMin
+comment6.target=void\ setCompraMinima(int)
+comment7.params=p_diaEnt
+comment7.target=void\ setDiaEntrega(int)
+comment8.params=p_compraMin
+comment8.target=void\ nuevaCompraMinima(int)
+comment9.params=p_diaEnt
+comment9.target=void\ nuevoDiaEntrega(int)
+numComments=11

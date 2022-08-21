@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Hospital
+comment0.text=\r\n\ Un\ hospital\ p\u00FAblico\ brinda\ como\ servicio\ hacia\ sus\ pacientes,\ autoridades\ judiciales,\ obras\ sociales,\ etc.,\ enviarles\ los\ \r\n\ \ \ \ datos\ filiatorios,\ por\ correo\ postal,\ al\ domicilio\ declarado\ donde\ vive.\ Previo\ al\ env\u00EDo,\ el\ operador\ verifica\ por\ pantalla\ \r\n\ \ \ \ los\ datos\ del\ paciente.\ Para\ realizar\ esta\ tarea,\ implemente\ en\ java\ el\ siguiente\ diagrama\ de\ clases,\ donde\ se\ observa\ un\ \r\n\ \ \ \ doble\ conocimiento\ de\ la\ clase\ Paciente\ con\ Localidad.\ El\ m\u00E9todo\ mostrar()\ de\ Localidad\ retorna\ la\ siguiente\ cadena\ \r\n\ \ \ \ (los\ valores\ en\ negrita\ dependen\ del\ estado\ interno\ del\ objeto)\:\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=p_nombreHospital\ p_nombreDirector
+comment1.target=Hospital(java.lang.String,\ java.lang.String)
+comment2.params=p_nombreHospital
+comment2.target=void\ setNombreHospital(java.lang.String)
+comment3.params=p_nombreDirector
+comment3.target=void\ setNombreDirector(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getNombreDirector()
+comment5.params=
+comment5.target=java.lang.String\ getNombreHospital()
+comment6.params=p_paciente
+comment6.target=void\ consultaDatosFiliatorios(Paciente)
+numComments=7

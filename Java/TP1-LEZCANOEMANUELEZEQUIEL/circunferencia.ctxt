@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=circunferencia
+comment0.text=\r\n\ Crear\ una\ clase\ denominada\ Circunferencia,\ que\ contenga\ el\ m\u00E9todo\ main(),\ en\ el\ que\ se\ calcule\ el\ per\u00EDmetro\ \r\n\ \ \ de\ una\ circunferencia,\ ingresando\ el\ radio\ de\ tipo\ entero\ a\ trav\u00E9s\ del\ argumento\ del\ main().\r\n\ \r\n\ @author\ Lezcano\ Emanuel\ Ezequiel\ \r\n\ @version\ (1.0)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

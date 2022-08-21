@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Localidad
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Localidad\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=p_nombre\ p_provincia
+comment1.target=Localidad(java.lang.String,\ java.lang.String)
+comment1.text=Constructor\ Localidad\:\ inicializa\ los\ atributos\ (String\ nombre,\ String\ provincia)
+comment2.params=p_nombre
+comment2.target=void\ setNombre(java.lang.String)
+comment2.text=Metodo\ Setter\ para\ atributo\ "nombre",\ carga\ el\ atributo\ con\ el\ dato\ (String)\ que\ recibe\ como\ parametro,\ devuelve\ void
+comment3.params=p_provincia
+comment3.target=void\ setProvincia(java.lang.String)
+comment3.text=Metodo\ Setter\ para\ atributo\ "provincia",\ carga\ el\ atributo\ con\ el\ dato\ (String)\ que\ recibe\ como\ parametro,\ devuelve\ void
+comment4.params=
+comment4.target=java.lang.String\ getNombre()
+comment4.text=Metodo\ Getter\ para\ atributo\ "nombre",\ devuelve\ un\ objeto\ de\ tipo\ String\ de\ dicho\ atributo,\ no\ recibe\ parametros
+comment5.params=
+comment5.target=java.lang.String\ getProvincia()
+comment5.text=Metodo\ Getter\ para\ atributo\ "provincia",\ devuelve\ un\ objeto\ de\ tipo\ String\ de\ dicho\ atributo,\ no\ recibe\ parametros
+comment6.params=
+comment6.target=java.lang.String\ mostrar()
+comment6.text=Retorna\ detalladamente\ una\ cadena\ de\ caracteres\ (String)\ mostrando\ el\ contenido\ de\ los\ atributos\ del\ constructor\ Localidad\ ,\ no\ recibe\ parametros,\ el\ metodo\ es\ de\ acceso\ publico
+numComments=7

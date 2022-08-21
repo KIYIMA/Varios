@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Alumno
+comment0.text=\r\n\ It\ is\ wanted\ to\ get\ the\ average\ of\ grade\ points\ of\ Object\ Oriented\ Programming\ students.\ For\ this,\ the\ abstract\ concept\ \r\n\ \ \ "pupil"\ is\ modeled.\ When\ an\ instance\ of\ Alumno\ is\ created,\ as\ grade\ points\ are\ not\ known\ yet,\ they\ are\ initialized\ in\ \r\n\ \ \ zero.\r\n\ \r\n\ @author\ (Lezcano\ Emanuel\ Ezequiel)\ \r\n\ @version\ (1.0)\r\n
+comment1.params=p_lu\ p_nombre\ p_apellido
+comment1.target=Alumno(int,\ java.lang.String,\ java.lang.String)
+comment1.text=Constructor\ Alumno
+comment2.params=p_nota
+comment2.target=void\ setNota1(double)
+comment3.params=p_nota
+comment3.target=void\ setNota2(double)
+comment4.params=
+comment4.target=boolean\ aprueba()
+comment5.params=
+comment5.target=java.lang.String\ leyendaAprueba()
+comment6.params=
+comment6.target=double\ promedio()
+comment7.params=
+comment7.target=java.lang.String\ nomYApe()
+comment8.params=
+comment8.target=java.lang.String\ apeYNom()
+comment9.params=
+comment9.target=void\ mostrar()
+numComments=10

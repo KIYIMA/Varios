@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Punto
+comment0.text=\r\n\ Con\ el\ prop\u00F3sito\ de\ trabajar\ con\ figuras\ geom\u00E9tricas,\ se\ modela\ como\r\n\ \ \ colaborador,\ el\ concepto\ \u201Cpunto\u201D,\ que\ participar\u00E1\ m\u00E1s\ adelante\ en\ la\ \r\n\ \ \ construcci\u00F3n\ de\ figuras\ (por\ ejemplo,\ el\ centro\ de\ un\ c\u00EDrculo).\ Para\ ello\ se\ \r\n\ \ \ abstraen\ las\ caracter\u00EDsticas\ b\u00E1sicas\ de\ un\ punto,\ y\ se\ lo\ dota\ de\ \r\n\ \ \ comportamiento.\ Un\ punto\ tiene\ dos\ propiedades\ relevantes\:\ la\ abscisa\ X\ y\ \r\n\ \ \ la\ ordenada\ Y\ en\ el\ plano.\r\n\ \r\n\ @author\ (Lezcano\ Emanuel\ Ezequiel)\ \r\n\ @version\ (1.0)\r\n
+comment1.params=
+comment1.target=Punto()
+comment1.text=Doble\ encapsulamiento\ del\ constructor\ Punto
+comment2.params=p_x\ p_y
+comment2.target=Punto(double,\ double)
+comment3.params=p_x
+comment3.target=void\ setX(double)
+comment4.params=p_y
+comment4.target=void\ setY(double)
+comment5.params=
+comment5.target=double\ getX()
+comment6.params=
+comment6.target=double\ getY()
+comment7.params=p_dx\ p_dy
+comment7.target=void\ desplazar(double,\ double)
+comment8.params=
+comment8.target=java.lang.String\ coordenadas()
+comment9.params=
+comment9.target=void\ mostrar()
+numComments=10
